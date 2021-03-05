@@ -1,0 +1,21 @@
+h1 {
+  margin: 0;
+  font-family: Kristen ITC;
+  font-size: 80px;
+  transition: font-size 1s;
+}
+
+body {
+  background-color: #fbeeac;
+}
+
+p {
+  font-size:60px;
+  font-family:Caveat;
+  margin: 0;
+}
+
+::selection {
+  color: #214177;
+  background-color: #bdd8f1;
+}
